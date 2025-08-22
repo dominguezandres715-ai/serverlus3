@@ -12938,6 +12938,12 @@
     },
     "done": true
   },
+  "create:self_deploying": {
+    "criteria": {
+      "0": "2025-08-22 23:29:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-08-22 22:47:58 +0000"
