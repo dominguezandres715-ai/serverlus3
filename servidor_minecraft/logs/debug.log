@@ -16327,3 +16327,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [22Aug2025 23:17:09.512] [Server thread/DEBUG] [mixin/]: Mixing BlockMovementChecksMixin from createaddition.mixins.json into com.simibubi.create.api.contraption.BlockMovementChecks
 [22Aug2025 23:19:04.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Aug2025 23:19:04.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 23:24:04.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 23:24:04.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 23:29:04.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 23:29:04.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 23:29:28.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Self-Driving Cart]

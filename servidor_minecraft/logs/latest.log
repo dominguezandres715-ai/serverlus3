@@ -3404,3 +3404,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [22Aug2025 22:52:00.284] [Worker-Main-17/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
 [22Aug2025 22:54:31.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Spectator Mode]
 [22Aug2025 22:54:52.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[22Aug2025 23:29:28.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Self-Driving Cart]
