@@ -3388,3 +3388,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [22Aug2025 22:23:59.072] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 80304 bytes (in 9 string chunks with the size of 10000)
 [22Aug2025 22:23:59.274] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [22Aug2025 22:24:31.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made cupcakespace a server operator
+[22Aug2025 22:32:45.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.28:51154] logged in with entity id 82 at (-22.26383282701779, 6.0625, 986.0818611483437)
+[22Aug2025 22:32:45.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[22Aug2025 22:32:45.977] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[22Aug2025 22:32:47.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
+[22Aug2025 22:34:28.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2173ms or 43 ticks behind
+[22Aug2025 22:41:22.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made CupcakeSpace a server operator

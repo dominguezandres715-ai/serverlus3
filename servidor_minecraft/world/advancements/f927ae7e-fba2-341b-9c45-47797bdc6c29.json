@@ -12596,39 +12596,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-08-22 08:59:07 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:smeltery/gold_casting": {
-    "criteria": {
-      "crafted_cast": "2025-08-22 08:24:26 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/cog_block": {
-    "criteria": {
-      "has_redstone_block": "2025-08-22 08:55:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-08-22 08:59:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-22 08:13:51 +0000"
-    },
-    "done": true
-  },
-  "lilis_lucky_lures:recipes/redstone_coil": {
-    "criteria": {
-      "has_redstone_block": "2025-08-22 08:55:27 +0000"
     },
     "done": true
   },
@@ -12662,18 +12632,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-08-22 08:22:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-08-22 08:59:07 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-08-22 08:13:51 +0000"
@@ -12686,23 +12644,11 @@
     },
     "done": true
   },
-  "tconstruct:recipes/brewing/common/slime/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-08-22 08:59:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-22 08:13:51 +0000"
     },
     "done": true
-  },
-  "tconstruct:smeltery/cast_collector": {
-    "criteria": {
-      "large_plate": "2025-08-22 08:24:26 +0000"
-    },
-    "done": false
   },
   "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
     "criteria": {
@@ -12722,21 +12668,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-08-22 08:55:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-08-22 08:13:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2025-08-22 08:46:50 +0000"
     },
     "done": true
   },
@@ -12752,9 +12686,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-22 08:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-22 08:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-22 08:22:22 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-08-22 08:24:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "large_plate": "2025-08-22 08:24:26 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/decorations/tables/cast_chest": {
     "criteria": {
       "has_item": "2025-08-22 08:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-08-22 08:46:50 +0000"
     },
     "done": true
   },
@@ -12764,15 +12734,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+  "supplementaries:recipes/cog_block": {
     "criteria": {
-      "has_netherite_ingot": "2025-08-22 08:13:51 +0000"
+      "has_redstone_block": "2025-08-22 08:55:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "lilis_lucky_lures:recipes/redstone_coil": {
     "criteria": {
-      "has_iron_block": "2025-08-22 08:22:22 +0000"
+      "has_redstone_block": "2025-08-22 08:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-22 08:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-22 08:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-22 08:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-22 08:59:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/brewing/common/slime/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-22 08:59:07 +0000"
     },
     "done": true
   },
