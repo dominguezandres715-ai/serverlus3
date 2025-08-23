@@ -3899,6 +3899,7 @@
       "minecraft:cave_spider": "2025-08-21 03:53:45 +0000",
       "minecraft:enderman": "2025-08-16 03:33:05 +0000",
       "minecraft:stray": "2025-08-16 03:05:06 +0000",
+      "minecraft:vex": "2025-08-23 01:48:50 +0000",
       "minecraft:zombie": "2025-08-16 01:50:57 +0000",
       "minecraft:drowned": "2025-08-16 05:42:09 +0000",
       "minecraft:zombie_villager": "2025-08-16 05:07:06 +0000"
@@ -12035,13 +12036,19 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
+  "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "has_fried_egg": "2025-08-23 01:36:58 +0000"
+      "phantom": "2025-08-23 00:42:33 +0000"
+    },
+    "done": false
+  },
+  "arsdelight:recipes/misc/bombegrante_crate": {
+    "criteria": {
+      "has_bombegranate_pod": "2025-08-23 00:46:52 +0000"
     },
     "done": true
   },
-  "arsdelight:recipes/misc/bombegrante_crate": {
+  "arsdelight:recipes/food/bombegrante_pie": {
     "criteria": {
       "has_bombegranate_pod": "2025-08-23 00:46:52 +0000"
     },
@@ -12059,23 +12066,47 @@
     },
     "done": true
   },
-  "arsdelight:recipes/food/bombegrante_pie": {
-    "criteria": {
-      "has_bombegranate_pod": "2025-08-23 00:46:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-23 01:36:26 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
+  "farmersdelight:recipes/food/egg_sandwich": {
     "criteria": {
-      "phantom": "2025-08-23 00:42:33 +0000"
+      "has_fried_egg": "2025-08-23 01:36:58 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_jungle_grape_seeds": "2025-08-23 01:47:36 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-08-23 01:50:47 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-08-23 01:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-23 01:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-23 01:50:47 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

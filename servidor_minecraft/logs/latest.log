@@ -3414,3 +3414,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 01:36:26.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [What a Deal!]
 [23Aug2025 01:38:06.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/30911, l='ServerLevel[world]', x=-251.64, y=120.11, z=-1852.28] died: Honeyed Archer suffocated in a wall
 [23Aug2025 01:41:13.034] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30922, l='ServerLevel[world]', x=-238.12, y=115.75, z=-1857.70] died, message: 'Unemployed burned to death'
+[23Aug2025 01:45:15.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[23Aug2025 01:45:51.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss was kicked for floating too long!
+[23Aug2025 01:45:51.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Flying is not enabled on this server
+[23Aug2025 01:45:51.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[23Aug2025 01:45:51.493] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Aug2025 01:46:22.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NergalAbyss[/192.168.193.123:63498] logged in with entity id 35206 at (-258.38108187217495, 167.43602275190554, -1707.858804114658)
+[23Aug2025 01:46:22.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
+[23Aug2025 01:46:22.321] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
+[23Aug2025 01:47:36.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Wild Harvest]
+[23Aug2025 01:47:40.047] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: CupcakeSpace/factoryquarter_vn_final_rzyvsmsuza.nbt
+[23Aug2025 01:52:37.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has reached the goal [Senior Summoner]
