@@ -3855,3 +3855,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 23:05:15.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NergalAbyss[/192.168.193.123:63253] logged in with entity id 65948 at (-3238.489622439494, 130.5625, -4753.807384290628)
 [23Aug2025 23:05:15.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
 [23Aug2025 23:05:15.225] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
+[23Aug2025 23:21:19.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.28:50684] logged in with entity id 68061 at (-19910.692750648577, 11.0, -42942.50349415398)
+[23Aug2025 23:21:19.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[23Aug2025 23:21:19.513] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)

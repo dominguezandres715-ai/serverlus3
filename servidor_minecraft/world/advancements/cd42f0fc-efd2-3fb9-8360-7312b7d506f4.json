@@ -12978,5 +12978,53 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_trapdoor": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-23 23:14:53 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_floorboard": {
+    "criteria": {
+      "has_cherry_wood": "2025-08-23 23:14:53 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_pressure_plate": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-23 23:14:53 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_stairs": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-23 23:14:53 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_door": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-23 23:14:53 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_button": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-23 23:14:53 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_slab": {
+    "criteria": {
+      "has_cherry_planks": "2025-08-23 23:14:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/vinery/sign_post_dark_cherry": {
+    "criteria": {
+      "has_item": "2025-08-23 23:14:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
