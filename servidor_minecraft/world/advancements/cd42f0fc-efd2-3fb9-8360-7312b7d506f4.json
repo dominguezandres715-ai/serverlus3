@@ -12217,15 +12217,123 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/smeltery/scorched/basin": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/scorched/lantern": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_soul_glass": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/ingot_gauge": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/fuel_gauge": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/scorched/alloyer": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_tinted_glass": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/scorched/table": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/alloyer": {
+    "criteria": {
+      "scorched_fuel_tank": "2025-08-23 19:58:54 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/ingot_tank": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-08-23 19:36:08 +0000"
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/scorched/chute": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_ladder": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-08-23 19:36:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/drain": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/channel": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_glass": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/faucet": {
+    "criteria": {
+      "has_item": "2025-08-23 19:58:23 +0000"
     },
     "done": true
   },
