@@ -12169,27 +12169,9 @@
     },
     "done": true
   },
-  "creategoggles:recipes/nbtcrafting/goggle_leather_helmet": {
+  "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
-      "has_helmet": "2025-08-23 04:50:44 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2025-08-23 04:46:36 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_fancy_bricks_crafting": {
-    "criteria": {
-      "has_item": "2025-08-23 05:18:49 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/stripped_dark_cherry_wood": {
-    "criteria": {
-      "has_stripped_dark_cherry_log": "2025-08-23 05:54:35 +0000"
+      "has_packed_ice": "2025-08-23 02:15:14 +0000"
     },
     "done": true
   },
@@ -12199,15 +12181,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_ice": {
+  "born_in_chaos_v1:double_trouble": {
     "criteria": {
-      "has_packed_ice": "2025-08-23 02:15:14 +0000"
+      "double_trouble_0": "2025-08-23 04:46:36 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/goggle_leather_helmet": {
+    "criteria": {
+      "has_helmet": "2025-08-23 04:50:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_fancy_bricks_crafting": {
+    "criteria": {
+      "has_item": "2025-08-23 05:18:49 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-08-23 05:34:47 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/stripped_dark_cherry_wood": {
+    "criteria": {
+      "has_stripped_dark_cherry_log": "2025-08-23 05:54:35 +0000"
     },
     "done": true
   },
