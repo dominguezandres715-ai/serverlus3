@@ -3407,3 +3407,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 03:16:10.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! -4.404216743476354,-8.571905238969123,3.1754066761195645
 [23Aug2025 03:19:34.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/49796, l='ServerLevel[world]', x=-3489.70, y=119.00, z=-4596.70] died: Honeyed Archer was slain by NergalAbyss
 [23Aug2025 03:20:28.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[23Aug2025 04:40:30.794] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: CupcakeSpace/all_in_one_final_ckq672f926.nbt
+[23Aug2025 04:41:47.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:56913] logged in with entity id 106776 at (-25.112701041437532, 7.0, 988.223092307311)
+[23Aug2025 04:41:47.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
+[23Aug2025 04:41:47.428] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
