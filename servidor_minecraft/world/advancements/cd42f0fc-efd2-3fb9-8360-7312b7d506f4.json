@@ -3704,6 +3704,7 @@
       "cooked_beef": "2025-08-16 03:54:01 +0000",
       "apple": "2025-08-16 01:34:16 +0000",
       "bread": "2025-08-16 02:29:45 +0000",
+      "cooked_rabbit": "2025-08-23 00:55:43 +0000",
       "cooked_chicken": "2025-08-16 01:43:20 +0000",
       "carrot": "2025-08-16 05:44:43 +0000"
     },
@@ -8576,6 +8577,7 @@
       "pick_head": "2025-08-16 07:49:50 +0000",
       "gem": "2025-08-16 07:32:35 +0000",
       "hammer_head": "2025-08-16 07:25:38 +0000",
+      "repair_kit": "2025-08-23 00:52:33 +0000",
       "boots_plating": "2025-08-16 23:25:09 +0000",
       "chestplate_plating": "2025-08-16 23:25:32 +0000",
       "maille": "2025-08-17 01:03:06 +0000",
@@ -12036,6 +12038,18 @@
   "arsdelight:recipes/misc/bombegrante_crate": {
     "criteria": {
       "has_bombegranate_pod": "2025-08-23 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/misc/frostaya_crate": {
+    "criteria": {
+      "has_frostaya_pod": "2025-08-23 00:47:44 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/food/frostaya_pie": {
+    "criteria": {
+      "has_frostaya_pod": "2025-08-23 00:47:44 +0000"
     },
     "done": true
   },
