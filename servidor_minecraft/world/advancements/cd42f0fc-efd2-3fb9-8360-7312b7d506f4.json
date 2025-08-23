@@ -12035,6 +12035,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-08-23 01:36:58 +0000"
+    },
+    "done": true
+  },
   "arsdelight:recipes/misc/bombegrante_crate": {
     "criteria": {
       "has_bombegranate_pod": "2025-08-23 00:46:52 +0000"
@@ -12056,6 +12062,12 @@
   "arsdelight:recipes/food/bombegrante_pie": {
     "criteria": {
       "has_bombegranate_pod": "2025-08-23 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-23 01:36:26 +0000"
     },
     "done": true
   },
