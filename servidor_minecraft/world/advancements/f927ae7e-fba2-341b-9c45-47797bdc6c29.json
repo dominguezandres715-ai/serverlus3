@@ -13436,6 +13436,12 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-08-23 02:56:12 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_blue2": {
     "criteria": {
       "recipe_condition1": "2025-08-23 02:29:37 +0000"
