@@ -3406,3 +3406,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 20:14:02.297] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/21140, l='ServerLevel[world]', x=-3327.02, y=91.41, z=-4842.72] died: Undead Knight suffocated in a wall
 [23Aug2025 20:40:14.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [23Aug2025 20:42:03.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[23Aug2025 21:00:54.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
