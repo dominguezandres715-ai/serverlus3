@@ -3403,3 +3403,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 03:08:17.199] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NergalAbyss with unique ID travelersbackpack.emerald_23.08.2025-03.08.17.dat
 [23Aug2025 03:08:17.201] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3313 Y: 162 Z: -4467
 [23Aug2025 03:10:31.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[23Aug2025 03:12:03.387] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/42553, l='ServerLevel[world]', x=-3413.65, y=145.25, z=-4443.05] died: Honeyed Archer suffocated in a wall
+[23Aug2025 03:16:10.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! -4.404216743476354,-8.571905238969123,3.1754066761195645
+[23Aug2025 03:19:34.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/49796, l='ServerLevel[world]', x=-3489.70, y=119.00, z=-4596.70] died: Honeyed Archer was slain by NergalAbyss
+[23Aug2025 03:20:28.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!

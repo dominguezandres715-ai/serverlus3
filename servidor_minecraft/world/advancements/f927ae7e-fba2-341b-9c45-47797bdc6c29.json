@@ -13298,6 +13298,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-08-23 03:24:10 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-08-23 02:33:45 +0000"
@@ -13559,6 +13565,12 @@
   "georenouveau:recipes/misc/copper_geore_dowsing_rod": {
     "criteria": {
       "has_ore": "2025-08-23 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-08-23 03:24:10 +0000"
     },
     "done": true
   },
