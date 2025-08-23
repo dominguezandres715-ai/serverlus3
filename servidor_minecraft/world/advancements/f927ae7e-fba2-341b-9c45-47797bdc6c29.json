@@ -13424,6 +13424,12 @@
     },
     "done": true
   },
+  "create:display_link": {
+    "criteria": {
+      "0": "2025-08-23 03:47:55 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_red2": {
     "criteria": {
       "recipe_condition1": "2025-08-23 02:29:37 +0000"
