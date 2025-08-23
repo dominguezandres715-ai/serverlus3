@@ -2609,6 +2609,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-08-23 22:01:07 +0000",
       "minecraft:taiga": "2025-08-22 02:57:39 +0000",
       "minecraft:deep_ocean": "2025-08-16 04:59:03 +0000",
       "minecraft:cherry_grove": "2025-08-21 05:02:14 +0000",
@@ -2621,7 +2622,10 @@
       "minecraft:river": "2025-08-16 04:45:46 +0000",
       "minecraft:lukewarm_ocean": "2025-08-21 04:13:01 +0000",
       "minecraft:stony_shore": "2025-08-16 04:39:34 +0000",
+      "minecraft:snowy_plains": "2025-08-23 22:08:57 +0000",
+      "minecraft:snowy_taiga": "2025-08-23 22:11:35 +0000",
       "minecraft:grove": "2025-08-21 23:36:59 +0000",
+      "minecraft:jagged_peaks": "2025-08-23 22:00:32 +0000",
       "minecraft:cold_ocean": "2025-08-16 04:40:21 +0000",
       "minecraft:forest": "2025-08-16 01:25:02 +0000",
       "minecraft:deep_cold_ocean": "2025-08-16 04:42:19 +0000",
@@ -12271,6 +12275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-08-23 22:03:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-23 20:33:16 +0000"
@@ -12340,6 +12350,12 @@
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-08-23 20:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-08-23 22:03:06 +0000"
     },
     "done": true
   },
@@ -12511,6 +12527,12 @@
     },
     "done": true
   },
+  "meadow:main/get_salt": {
+    "criteria": {
+      "salt": "2025-08-23 22:07:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-23 20:22:08 +0000"
@@ -12637,6 +12659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-23 22:14:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-23 20:15:40 +0000"
@@ -12703,6 +12731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-23 22:14:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-23 20:15:40 +0000"
@@ -12742,6 +12776,12 @@
   "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-23 20:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-08-23 22:03:06 +0000"
     },
     "done": true
   },
@@ -12787,6 +12827,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-08-23 22:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-23 20:15:40 +0000"
@@ -12802,6 +12848,12 @@
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-23 20:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-08-23 22:03:06 +0000"
     },
     "done": true
   },
@@ -12862,6 +12914,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-23 20:22:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-08-23 22:14:11 +0000"
     },
     "done": true
   },
