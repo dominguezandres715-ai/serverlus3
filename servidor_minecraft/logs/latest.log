@@ -3541,3 +3541,75 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 05:42:35.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> GRASIA MI MAMA
 [23Aug2025 05:42:59.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [23Aug2025 05:43:01.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> DUERMAN MAMAÑEMAS
+[23Aug2025 05:45:06.350] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[23Aug2025 05:47:11.353] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=53, y=-22, z=239}
+[23Aug2025 05:47:11.353] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=59, y=-22, z=239}
+[23Aug2025 05:47:11.354] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-21, z=245}
+[23Aug2025 05:47:11.354] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[23Aug2025 05:47:11.354] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=243}
+[23Aug2025 05:47:11.355] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-21, z=242}
+[23Aug2025 05:47:11.355] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=241}
+[23Aug2025 05:47:11.355] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=241}
+[23Aug2025 05:47:11.356] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[23Aug2025 05:47:11.356] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=57, y=-21, z=245}
+[23Aug2025 05:47:11.356] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[23Aug2025 05:47:11.357] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=241}
+[23Aug2025 05:47:11.357] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[23Aug2025 05:47:11.357] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=243}
+[23Aug2025 05:47:11.357] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[23Aug2025 05:47:11.357] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[23Aug2025 05:47:11.357] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[23Aug2025 05:47:11.358] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[23Aug2025 05:47:17.393] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-26, z=202}
+[23Aug2025 05:47:17.394] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-26, z=203}
+[23Aug2025 05:47:17.394] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[23Aug2025 05:47:17.394] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=202}
+[23Aug2025 05:47:17.394] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=196}
+[23Aug2025 05:47:17.394] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[23Aug2025 05:47:17.395] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-24, z=195}
+[23Aug2025 05:47:17.395] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[23Aug2025 05:47:17.395] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=194}
+[23Aug2025 05:47:17.395] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[23Aug2025 05:47:17.395] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=198}
+[23Aug2025 05:47:17.395] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[23Aug2025 05:47:17.395] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[23Aug2025 05:47:17.396] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[23Aug2025 05:47:17.396] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[23Aug2025 05:47:17.396] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[23Aug2025 05:47:17.396] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[23Aug2025 05:47:17.396] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[23Aug2025 05:47:17.396] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=195}
+[23Aug2025 05:47:17.396] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[23Aug2025 05:47:17.396] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=194}
+[23Aug2025 05:47:17.397] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[23Aug2025 05:47:17.397] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=196}
+[23Aug2025 05:47:17.397] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[23Aug2025 05:47:17.397] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[23Aug2025 05:47:17.397] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[23Aug2025 05:47:17.397] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[23Aug2025 05:47:17.397] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[23Aug2025 05:47:17.398] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
+[23Aug2025 05:47:17.401] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[23Aug2025 05:47:17.839] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[23Aug2025 05:47:17.840] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[23Aug2025 05:47:17.840] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[23Aug2025 05:47:17.840] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[23Aug2025 05:47:17.840] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[23Aug2025 05:48:16.498] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[23Aug2025 05:48:16.498] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[23Aug2025 05:48:16.498] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[23Aug2025 05:48:16.498] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[23Aug2025 05:48:16.499] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[23Aug2025 05:49:27.587] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[23Aug2025 05:53:02.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[23Aug2025 05:54:10.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> DUELMAN
+[23Aug2025 05:54:15.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> DUELMANNNNNNNNNNNNNNN
+[23Aug2025 05:56:16.436] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-58, z=8}
+[23Aug2025 05:57:40.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Successfully filled 784 block(s)]
+[23Aug2025 05:58:19.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Successfully filled 140 block(s)]
+[23Aug2025 05:58:48.488] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[23Aug2025 05:59:10.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[23Aug2025 05:59:26.469] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[23Aug2025 05:59:47.763] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[23Aug2025 06:04:55.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[23Aug2025 06:04:55.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game

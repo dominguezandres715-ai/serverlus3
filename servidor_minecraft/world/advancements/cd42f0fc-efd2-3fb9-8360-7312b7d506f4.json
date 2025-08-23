@@ -12187,6 +12187,12 @@
     },
     "done": true
   },
+  "vinery:recipes/stripped_dark_cherry_wood": {
+    "criteria": {
+      "has_stripped_dark_cherry_log": "2025-08-23 05:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2025-08-23 03:12:25 +0000"

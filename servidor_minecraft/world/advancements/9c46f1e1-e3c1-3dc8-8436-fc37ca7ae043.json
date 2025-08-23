@@ -2506,11 +2506,13 @@
       "minecraft:lukewarm_ocean": "2025-08-22 01:03:38 +0000",
       "minecraft:stony_shore": "2025-08-16 04:35:52 +0000",
       "minecraft:dripstone_caves": "2025-08-16 01:52:30 +0000",
+      "minecraft:grove": "2025-08-23 05:56:18 +0000",
       "minecraft:cold_ocean": "2025-08-16 04:35:29 +0000",
       "minecraft:forest": "2025-08-16 01:22:05 +0000",
       "minecraft:deep_cold_ocean": "2025-08-22 01:11:11 +0000",
       "minecraft:ocean": "2025-08-16 02:13:13 +0000",
       "minecraft:windswept_savanna": "2025-08-22 02:49:35 +0000",
+      "minecraft:frozen_peaks": "2025-08-23 05:57:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 06:18:51 +0000",
       "minecraft:meadow": "2025-08-17 06:24:25 +0000",
       "minecraft:savanna": "2025-08-17 06:55:30 +0000",
@@ -10989,6 +10991,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_the_recipe": "2025-08-23 05:43:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-08-23 05:16:47 +0000"
@@ -11025,9 +11033,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-23 05:46:45 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-08-23 05:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-23 06:06:09 +0000"
     },
     "done": true
   },
@@ -11040,6 +11060,42 @@
   "rusticdelight:recipes/food/cherry_blossom_cookie": {
     "criteria": {
       "has_cherry_sapling": "2025-08-23 05:16:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-23 05:46:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "mushroom_rice": "2025-08-23 05:46:45 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-08-23 05:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-23 06:06:09 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-08-23 06:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-08-23 05:46:45 +0000"
     },
     "done": true
   },
