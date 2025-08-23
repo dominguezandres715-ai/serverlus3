@@ -3403,3 +3403,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 19:34:32.307] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
 [23Aug2025 19:57:43.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
 [23Aug2025 20:02:48.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
+[23Aug2025 20:14:02.297] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/21140, l='ServerLevel[world]', x=-3327.02, y=91.41, z=-4842.72] died: Undead Knight suffocated in a wall
