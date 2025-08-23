@@ -3411,3 +3411,61 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 04:41:47.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:56913] logged in with entity id 106776 at (-25.112701041437532, 7.0, 988.223092307311)
 [23Aug2025 04:41:47.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
 [23Aug2025 04:41:47.428] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
+[23Aug2025 04:45:42.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> e de noshe
+[23Aug2025 04:45:56.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ese horno se va a sobrecargar de blaze blood
+[23Aug2025 04:46:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Double Trouble]
+[23Aug2025 04:48:55.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> hay un fokin
+[23Aug2025 04:48:58.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> night stalker
+[23Aug2025 04:49:00.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> aca
+[23Aug2025 04:49:03.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ñuesumadre
+[23Aug2025 04:50:20.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> si no estuviewra tan lejos iria
+[23Aug2025 04:51:04.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duerman
+[23Aug2025 04:52:16.843] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/124752, l='ServerLevel[world]', x=-3334.99, y=115.41, z=-4732.00] died: Undead Knight suffocated in a wall
+[23Aug2025 04:53:58.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Duke Wilson the Super'/125017, l='ServerLevel[world]', x=-2382.83, y=105.00, z=4347.48] died: Duke Wilson the Super was slain by NatoRWR
+[23Aug2025 04:55:00.906] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[23Aug2025 04:55:00.906] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[23Aug2025 04:55:03.986] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[23Aug2025 04:55:03.986] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[23Aug2025 04:56:48.810] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/128626, l='ServerLevel[world]', x=-3331.16, y=106.42, z=-4944.52] died: Honeyed Archer burned to death
+[23Aug2025 04:57:01.524] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[23Aug2025 04:57:01.524] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[23Aug2025 04:57:04.558] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-20, z=297}
+[23Aug2025 04:57:04.559] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-21, z=297}
+[23Aug2025 04:57:04.559] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:worm",tag:{Damage:0}}
+[23Aug2025 04:57:04.559] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-19, z=301}
+[23Aug2025 04:57:04.559] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[23Aug2025 04:57:04.560] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[23Aug2025 04:57:04.560] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[23Aug2025 04:57:04.560] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[23Aug2025 04:57:04.560] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[23Aug2025 04:57:04.561] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-20, z=299}
+[23Aug2025 04:57:04.561] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-19, z=298}
+[23Aug2025 04:57:04.561] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:unusual_fish_soup"}
+[23Aug2025 04:57:04.561] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-20, z=297}
+[23Aug2025 04:57:04.561] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=53, y=-20, z=297}
+[23Aug2025 04:57:04.561] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:tambaqui"}
+[23Aug2025 04:57:04.561] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=53, y=-19, z=298}
+[23Aug2025 04:57:04.562] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:tambaqui"}
+[23Aug2025 04:57:04.562] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=53, y=-20, z=299}
+[23Aug2025 04:57:04.562] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:tambaqui"}
+[23Aug2025 04:57:04.562] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-19, z=301}
+[23Aug2025 04:57:04.562] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[23Aug2025 04:57:04.563] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[23Aug2025 04:57:04.563] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[23Aug2025 04:57:04.563] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[23Aug2025 04:57:04.563] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[23Aug2025 04:57:04.563] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[23Aug2025 04:57:04.563] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[23Aug2025 04:57:17.450] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-58, z=8}
+[23Aug2025 04:57:19.553] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[23Aug2025 04:57:53.976] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[23Aug2025 04:57:59.184] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[23Aug2025 04:58:06.059] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[23Aug2025 05:03:12.297] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/130901, l='ServerLevel[world]', x=-2797.30, y=70.00, z=3793.30] died, message: 'Toolsmith was slain by Zombie'
+[23Aug2025 05:04:15.601] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/130899, l='ServerLevel[world]', x=-2801.48, y=76.00, z=3759.50] died, message: 'Mason was slain by Zombie Clown'
+[23Aug2025 05:05:42.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carpenter'/130900, l='ServerLevel[world]', x=-2826.13, y=76.00, z=3761.75] died, message: 'Carpenter was shot by Pillager'
+[23Aug2025 05:09:27.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss was slain by Dread Hound
+[23Aug2025 05:09:27.451] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NergalAbyss with unique ID travelersbackpack.emerald_23.08.2025-05.09.27.dat
+[23Aug2025 05:09:27.452] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3285 Y: 116 Z: -4807
+[23Aug2025 05:09:51.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.bleeding.player
+[23Aug2025 05:11:33.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! -9.569258760145658,-0.25894113731260404,3.5604053320557796
