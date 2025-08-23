@@ -18882,3 +18882,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 20:24:03.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Aug2025 20:24:03.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Aug2025 20:24:06.589] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['NergalAbyss'/10047, l='ServerLevel[world]', x=-3292.56, y=12.00, z=-4827.62]]
+[23Aug2025 20:24:39.672] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['NergalAbyss'/10047, l='ServerLevel[world]', x=-3293.26, y=12.00, z=-4827.49]]
+[23Aug2025 20:25:29.375] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['NergalAbyss'/10047, l='ServerLevel[world]', x=-3290.50, y=14.00, z=-4821.80]]
+[23Aug2025 20:25:34.557] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['NergalAbyss'/10047, l='ServerLevel[world]', x=-3291.07, y=12.00, z=-4829.12]]
+[23Aug2025 20:25:46.698] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['NergalAbyss'/10047, l='ServerLevel[world]', x=-3291.12, y=12.00, z=-4825.41]]
+[23Aug2025 20:25:51.001] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['NergalAbyss'/10047, l='ServerLevel[world]', x=-3291.24, y=12.00, z=-4828.68]]
+[23Aug2025 20:25:58.300] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['NergalAbyss'/10047, l='ServerLevel[world]', x=-3288.01, y=12.00, z=-4827.19]]
+[23Aug2025 20:29:03.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 20:29:03.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 20:34:03.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 20:34:03.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
