@@ -18969,3 +18969,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 21:33:01.198] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [23Aug2025 21:34:08.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Aug2025 21:34:08.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 21:36:10.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[23Aug2025 21:36:10.642] [Server thread/DEBUG] [mixin/]: Mixing PiglinBruteAiMixin from ars_additions.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinBruteAi
+[23Aug2025 21:36:10.642] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modifyTarget$2(Lnet/minecraft/world/entity/LivingEntity;)Z to md1a0f02$lambda$modifyTarget$2$0 in ars_additions.mixins.json:PiglinBruteAiMixin
+[23Aug2025 21:36:10.642] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modifyTarget$1(Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/item/ItemStack;)Ljava/lang/Integer; to md1a0f02$lambda$modifyTarget$1$1 in ars_additions.mixins.json:PiglinBruteAiMixin
+[23Aug2025 21:36:10.642] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modifyTarget$0()Ljava/lang/Boolean; to md1a0f02$lambda$modifyTarget$0$2 in ars_additions.mixins.json:PiglinBruteAiMixin
+[23Aug2025 21:37:08.346] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-201, -255], discarding
+[23Aug2025 21:39:10.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 21:39:10.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 21:44:10.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 21:44:10.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 21:49:10.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 21:49:10.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 21:50:46.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[23Aug2025 21:54:10.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 21:54:10.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 21:55:19.791] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-241, -281], discarding
+[23Aug2025 21:55:19.798] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-241, -280], discarding
+[23Aug2025 21:55:19.817] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-241, -279], discarding
+[23Aug2025 21:55:19.825] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-241, -278], discarding
+[23Aug2025 21:55:19.959] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-242, -281], discarding
+[23Aug2025 21:55:19.960] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-242, -280], discarding
+[23Aug2025 21:55:19.962] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-242, -279], discarding
+[23Aug2025 21:55:19.963] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-242, -278], discarding
+[23Aug2025 21:55:20.012] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-243, -281], discarding
+[23Aug2025 21:55:20.014] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-243, -280], discarding
+[23Aug2025 21:55:20.016] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-243, -279], discarding
+[23Aug2025 21:55:20.017] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: antlers:cabin
+[23Aug2025 21:55:20.017] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-243, -278], discarding
+[23Aug2025 21:55:21.153] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-244, -281], discarding
+[23Aug2025 21:55:21.155] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-244, -280], discarding
+[23Aug2025 21:55:21.155] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-244, -279], discarding
+[23Aug2025 21:55:21.156] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-244, -278], discarding
