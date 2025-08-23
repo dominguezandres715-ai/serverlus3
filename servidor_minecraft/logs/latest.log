@@ -3613,3 +3613,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 05:59:47.763] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
 [23Aug2025 06:04:55.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
 [23Aug2025 06:04:55.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[23Aug2025 06:27:37.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Into Fire]
+[23Aug2025 06:39:20.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Wild Crops]
+[23Aug2025 06:40:05.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
+[23Aug2025 06:40:05.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[23Aug2025 06:40:26.609] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[23Aug2025 06:41:02.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! -8.894900057137875,0.0,-4.614622380453056
+[23Aug2025 06:41:06.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Aug2025 06:41:06.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Aug2025 06:41:06.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Aug2025 06:41:06.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Aug2025 06:41:07.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Aug2025 06:41:08.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Aug2025 06:41:08.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[23Aug2025 06:41:08.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[23Aug2025 06:41:08.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Aug2025 06:41:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Aug2025 06:41:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Aug2025 06:41:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[23Aug2025 06:41:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[23Aug2025 06:41:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Aug2025 06:41:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Aug2025 06:41:09.267] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

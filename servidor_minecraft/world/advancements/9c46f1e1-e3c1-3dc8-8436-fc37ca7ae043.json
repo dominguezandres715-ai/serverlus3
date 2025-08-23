@@ -5159,6 +5159,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-22 03:38:09 +0000",
+      "minecraft:blaze": "2025-08-23 06:27:37 +0000",
       "minecraft:skeleton": "2025-08-16 01:46:46 +0000",
       "minecraft:vindicator": "2025-08-22 00:53:34 +0000",
       "minecraft:magma_cube": "2025-08-17 05:50:49 +0000",
@@ -10997,6 +10998,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-23 06:27:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-08-23 05:16:47 +0000"
@@ -11015,9 +11022,21 @@
     },
     "done": true
   },
+  "candlelight:recipes/broccoli_crate": {
+    "criteria": {
+      "has_lettuce": "2025-08-23 06:39:20 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cherry_blossom_roll": {
     "criteria": {
       "has_cherry_sapling": "2025-08-23 05:16:48 +0000"
+    },
+    "done": true
+  },
+  "candlelight:main/find_wild_crops": {
+    "criteria": {
+      "lettuce": "2025-08-23 06:39:20 +0000"
     },
     "done": true
   },
@@ -11087,6 +11106,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-23 06:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-23 06:27:37 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-08-23 06:06:09 +0000"
@@ -11096,6 +11127,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-08-23 05:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-23 06:27:37 +0000"
     },
     "done": true
   },

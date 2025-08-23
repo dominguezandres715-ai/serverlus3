@@ -13256,15 +13256,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-23 06:13:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
     "criteria": {
       "has_item": "2025-08-23 02:20:25 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/statue": {
     "criteria": {
       "has_smooth_stone_slab": "2025-08-23 05:45:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
     },
     "done": true
   },
@@ -13301,6 +13319,12 @@
   "candlelight:recipes/typewriter_copper": {
     "criteria": {
       "has_copper_ingot": "2025-08-23 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
     },
     "done": true
   },
@@ -13352,6 +13376,30 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_light_blue2": {
     "criteria": {
       "recipe_condition1": "2025-08-23 02:29:37 +0000"
@@ -13370,6 +13418,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-08-23 02:33:45 +0000"
@@ -13382,6 +13436,12 @@
     },
     "done": true
   },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-08-23 05:16:39 +0000"
@@ -13391,6 +13451,12 @@
   "travelersbackpack:recipes/misc/gold": {
     "criteria": {
       "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
     },
     "done": true
   },
@@ -13409,6 +13475,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
     },
     "done": true
   },
@@ -13490,6 +13562,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-08-23 02:33:45 +0000"
@@ -13523,6 +13601,18 @@
   "create:display_link": {
     "criteria": {
       "0": "2025-08-23 03:47:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
     },
     "done": true
   },
@@ -13604,6 +13694,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-08-23 02:33:45 +0000"
@@ -13619,6 +13715,30 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-08-23 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
     },
     "done": true
   },
@@ -13646,15 +13766,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grass_slab": {
     "criteria": {
       "has_grass_block": "2025-08-23 05:51:38 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
     "criteria": {
       "has_item": "2025-08-23 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
     },
     "done": true
   },
@@ -13673,6 +13811,12 @@
   "connectedglass:recipes/misc/borderless_glass_gray1": {
     "criteria": {
       "recipe_condition": "2025-08-23 02:15:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
     },
     "done": true
   },
@@ -13712,6 +13856,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/wine_press": {
     "criteria": {
       "has_iron_trapdoor": "2025-08-23 05:20:51 +0000"
@@ -13742,6 +13892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-23 06:13:59 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_purple2": {
     "criteria": {
       "recipe_condition1": "2025-08-23 02:29:37 +0000"
@@ -13754,9 +13910,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/scorched/duct": {
     "criteria": {
       "has_item": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-23 06:13:59 +0000"
     },
     "done": true
   },
@@ -13769,6 +13937,24 @@
   "create:recipes/misc/crafting/kinetics/brass_door": {
     "criteria": {
       "has_item": "2025-08-23 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
     },
     "done": true
   },
@@ -13799,6 +13985,12 @@
   "create:recipes/misc/crafting/logistics/stockpile_switch": {
     "criteria": {
       "has_item": "2025-08-23 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
     },
     "done": true
   },
@@ -13850,6 +14042,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-08-23 06:28:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-23 02:33:45 +0000"
@@ -13859,6 +14057,12 @@
   "connectedglass:recipes/misc/borderless_glass_lime2": {
     "criteria": {
       "recipe_condition1": "2025-08-23 02:29:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
     },
     "done": true
   },
@@ -13898,9 +14102,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
     "criteria": {
       "has_item": "2025-08-23 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
     },
     "done": true
   },
@@ -13940,15 +14168,45 @@
     },
     "done": true
   },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-08-23 06:34:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-08-23 05:16:39 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-08-23 06:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-08-23 06:28:46 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass1": {
     "criteria": {
       "recipe_condition": "2025-08-23 02:29:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-08-23 06:28:46 +0000"
     },
     "done": true
   },
