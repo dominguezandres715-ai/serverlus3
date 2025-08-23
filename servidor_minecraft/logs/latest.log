@@ -3830,3 +3830,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 22:11:47.701] [Worker-Main-144/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [23Aug2025 22:11:47.701] [Worker-Main-144/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [23Aug2025 22:11:47.701] [Worker-Main-144/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[23Aug2025 22:18:27.027] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[23Aug2025 22:20:32.515] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-198, -254], discarding
+[23Aug2025 22:20:32.516] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-198, -253], discarding
+[23Aug2025 22:20:34.039] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-198, -255], discarding
+[23Aug2025 22:20:34.041] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-199, -254], discarding
+[23Aug2025 22:20:34.043] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-199, -253], discarding
+[23Aug2025 22:20:47.523] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-199, -255], discarding
+[23Aug2025 22:20:47.528] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-200, -254], discarding
+[23Aug2025 22:20:47.529] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-200, -253], discarding
+[23Aug2025 22:20:48.467] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-200, -255], discarding
+[23Aug2025 22:20:48.469] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-201, -253], discarding
+[23Aug2025 22:20:48.470] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-201, -254], discarding
+[23Aug2025 22:20:48.696] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-201, -255], discarding
+[23Aug2025 22:23:36.276] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id antlers:wendigo
+[23Aug2025 22:23:45.050] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-199, -255], discarding
+[23Aug2025 22:23:45.051] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-198, -255], discarding
+[23Aug2025 22:23:45.064] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-199, -254], discarding
+[23Aug2025 22:23:45.066] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'antlers:cabin' in chunk [-198, -254], discarding
+[23Aug2025 22:24:39.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Captured!]
+[23Aug2025 22:27:04.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[23Aug2025 22:27:20.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[23Aug2025 22:27:20.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
