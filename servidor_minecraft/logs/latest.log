@@ -3405,3 +3405,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [22Aug2025 22:54:31.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Spectator Mode]
 [22Aug2025 22:54:52.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
 [22Aug2025 23:29:28.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Self-Driving Cart]
+[22Aug2025 23:56:18.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Dive into Doughy Delights]
