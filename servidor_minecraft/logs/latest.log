@@ -3852,3 +3852,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 22:27:04.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [23Aug2025 22:27:20.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
 [23Aug2025 22:27:20.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[23Aug2025 23:05:15.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NergalAbyss[/192.168.193.123:63253] logged in with entity id 65948 at (-3238.489622439494, 130.5625, -4753.807384290628)
+[23Aug2025 23:05:15.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
+[23Aug2025 23:05:15.225] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
