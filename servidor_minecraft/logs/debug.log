@@ -23722,3 +23722,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [23Aug2025 22:27:04.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [23Aug2025 22:27:20.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
 [23Aug2025 22:27:20.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[23Aug2025 22:29:13.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 22:29:13.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 22:34:13.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 22:34:13.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
