@@ -13268,6 +13268,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-08-23 02:33:45 +0000"
@@ -13286,6 +13298,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_black2": {
     "criteria": {
       "recipe_condition1": "2025-08-23 02:29:37 +0000"
@@ -13298,9 +13322,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-08-23 03:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
     },
     "done": true
   },
@@ -13340,6 +13376,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_white2": {
     "criteria": {
       "recipe_condition1": "2025-08-23 02:29:37 +0000"
@@ -13349,6 +13397,12 @@
   "connectedglass:recipes/misc/borderless_glass_white1": {
     "criteria": {
       "recipe_condition": "2025-08-23 04:45:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
     },
     "done": true
   },
@@ -13367,6 +13421,12 @@
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-08-23 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
     },
     "done": true
   },
@@ -13454,6 +13514,12 @@
     },
     "done": true
   },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
   "create:deployer": {
     "criteria": {
       "0": "2025-08-23 02:56:12 +0000"
@@ -13463,6 +13529,12 @@
   "connectedglass:recipes/misc/borderless_glass_blue2": {
     "criteria": {
       "recipe_condition1": "2025-08-23 02:29:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-08-23 05:16:39 +0000"
     },
     "done": true
   },
@@ -13481,6 +13553,18 @@
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_item": "2025-08-23 02:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
     },
     "done": true
   },
@@ -13556,6 +13640,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_yellow2": {
     "criteria": {
       "recipe_condition1": "2025-08-23 02:29:37 +0000"
@@ -13571,6 +13667,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-08-23 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_press": {
+    "criteria": {
+      "has_iron_trapdoor": "2025-08-23 05:20:51 +0000"
     },
     "done": true
   },
@@ -13592,9 +13694,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_purple2": {
     "criteria": {
       "recipe_condition1": "2025-08-23 02:29:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2025-08-23 05:16:39 +0000"
     },
     "done": true
   },
@@ -13607,6 +13727,12 @@
   "create:recipes/misc/crafting/kinetics/brass_door": {
     "criteria": {
       "has_item": "2025-08-23 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/chefs_pants": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
     },
     "done": true
   },
@@ -13634,6 +13760,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_pink2": {
     "criteria": {
       "recipe_condition1": "2025-08-23 02:29:37 +0000"
@@ -13655,6 +13787,12 @@
   "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
       "has_item": "2025-08-23 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/gold_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-08-23 05:16:39 +0000"
     },
     "done": true
   },
@@ -13730,9 +13868,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/golden_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass1": {
     "criteria": {
       "recipe_condition": "2025-08-23 02:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-23 05:16:39 +0000"
     },
     "done": true
   },

@@ -12181,6 +12181,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_fancy_bricks_crafting": {
+    "criteria": {
+      "has_item": "2025-08-23 05:18:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2025-08-23 03:12:25 +0000"
