@@ -95,3 +95,7 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [24Aug2025 01:44:10.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
 [24Aug2025 01:48:28.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
 [24Aug2025 01:50:35.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Spectator Mode]
+[24Aug2025 01:51:06.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3579ms or 71 ticks behind
+[24Aug2025 01:51:38.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[24Aug2025 01:53:24.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[24Aug2025 01:53:24.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
