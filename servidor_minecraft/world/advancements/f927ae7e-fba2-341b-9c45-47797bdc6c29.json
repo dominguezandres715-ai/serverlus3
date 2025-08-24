@@ -14223,6 +14223,18 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-08-24 04:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-08-24 04:04:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-08-24 03:54:52 +0000"
@@ -14235,9 +14247,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 04:13:57 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/stove": {
     "criteria": {
       "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-08-24 04:13:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove": {
+    "criteria": {
+      "has_planks": "2025-08-24 04:04:35 +0000"
     },
     "done": true
   },
@@ -14250,6 +14280,12 @@
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-08-24 00:55:20 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2025-08-24 04:13:57 +0000"
     },
     "done": true
   },
@@ -14313,6 +14349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 04:13:56 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/cherry": {
     "criteria": {
       "has_planks": "2025-08-24 00:55:20 +0000"
@@ -14322,6 +14364,12 @@
   "create:recipes/misc/crafting/appliances/linked_controller": {
     "criteria": {
       "has_item": "2025-08-24 01:08:46 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-08-24 04:04:35 +0000"
     },
     "done": true
   },
@@ -14355,6 +14403,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-08-24 04:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-24 03:54:52 +0000"
@@ -14370,6 +14424,18 @@
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_the_recipe": "2025-08-24 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 04:04:17 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-08-24 04:13:56 +0000"
     },
     "done": true
   },
@@ -14397,6 +14463,18 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-08-24 04:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 04:04:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-08-24 02:29:29 +0000"
@@ -14418,6 +14496,12 @@
   "arcanelanterns:recipes/misc/feral_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-08-24 04:13:56 +0000"
     },
     "done": true
   },

@@ -221,3 +221,7 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [24Aug2025 03:55:29.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [24Aug2025 04:01:08.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [24Aug2025 04:02:03.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 04:05:38.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[24Aug2025 04:05:38.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[24Aug2025 04:11:37.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/383322, l='ServerLevel[world]', x=-2757.71, y=77.97, z=3156.19] died: Honeyed Archer burned to death
+[24Aug2025 04:24:36.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/405375, l='ServerLevel[world]', x=-2792.22, y=78.47, z=3343.14] died: Honeyed Archer was slain by Dread Hound
