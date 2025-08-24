@@ -4484,6 +4484,7 @@
       "bread": "2025-08-16 07:49:08 +0000",
       "golden_apple": "2025-08-21 05:04:14 +0000",
       "melon_slice": "2025-08-16 23:24:18 +0000",
+      "golden_carrot": "2025-08-24 03:36:41 +0000",
       "cooked_chicken": "2025-08-19 05:57:22 +0000",
       "cooked_salmon": "2025-08-19 22:10:18 +0000",
       "carrot": "2025-08-16 23:26:04 +0000"
@@ -14264,6 +14265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-08-24 03:37:58 +0000"
+    },
+    "done": true
+  },
   "arcanelanterns:recipes/misc/warding_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
@@ -14285,6 +14292,12 @@
   "create:recipes/misc/crafting/appliances/linked_controller": {
     "criteria": {
       "has_item": "2025-08-24 01:08:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-08-24 03:36:35 +0000"
     },
     "done": true
   },
@@ -14333,6 +14346,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2025-08-24 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
+    "criteria": {
+      "has_item": "2025-08-24 03:37:58 +0000"
     },
     "done": true
   },

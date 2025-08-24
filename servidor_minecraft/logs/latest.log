@@ -203,3 +203,13 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [24Aug2025 03:27:16.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/344125, l='ServerLevel[world]', x=-3248.92, y=139.41, z=-4630.85] died: Undead Knight suffocated in a wall
 [24Aug2025 03:27:53.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Disconnected
 [24Aug2025 03:27:53.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
+[24Aug2025 03:35:42.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3297ms or 65 ticks behind
+[24Aug2025 03:36:03.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5341ms or 106 ticks behind
+[24Aug2025 03:36:50.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4857ms or 97 ticks behind
+[24Aug2025 03:39:28.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:50952] logged in with entity id 361436 at (-2729.5, 72.0, 3251.5)
+[24Aug2025 03:39:28.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
+[24Aug2025 03:39:28.926] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
+[24Aug2025 03:40:38.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ahnojoda
+[24Aug2025 03:40:46.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> todo el tiempo de noche
+[24Aug2025 03:40:48.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> >:/
+[24Aug2025 03:43:11.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Overseer Arun the Dark'/362986, l='ServerLevel[world]', x=-3297.30, y=109.00, z=-4873.30] died: Overseer Arun the Dark was slain by NergalAbyss
