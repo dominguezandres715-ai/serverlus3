@@ -14279,6 +14279,12 @@
     },
     "done": true
   },
+  "meadow:recipes/woodcutter": {
+    "criteria": {
+      "has_pine_log": "2025-08-24 06:01:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-24 03:54:52 +0000"
@@ -14435,6 +14441,12 @@
     },
     "done": true
   },
+  "meadow:recipes/pine_wood": {
+    "criteria": {
+      "has_pine_log": "2025-08-24 06:01:57 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-08-24 04:13:57 +0000"
@@ -14450,6 +14462,12 @@
   "arsdelight:recipes/food/frostaya_pie": {
     "criteria": {
       "has_frostaya_pod": "2025-08-24 05:43:58 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/fire_log": {
+    "criteria": {
+      "has_pine_log": "2025-08-24 06:01:57 +0000"
     },
     "done": true
   },
@@ -14516,6 +14534,12 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
     "criteria": {
       "has_item": "2025-08-24 03:37:58 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2025-08-24 05:57:12 +0000"
     },
     "done": true
   },
