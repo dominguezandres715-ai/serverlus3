@@ -27675,3 +27675,25 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [24Aug2025 02:26:02.061] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/272842, l='ServerLevel[world]', x=-3154.96, y=135.41, z=-4767.22] died: Undead Knight suffocated in a wall
 [24Aug2025 02:29:25.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Aug2025 02:29:25.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 02:34:13.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Deceived Hopes]
+[24Aug2025 02:34:25.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 02:34:25.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 02:38:50.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> esde dia
+[24Aug2025 02:38:53.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> o de noche
+[24Aug2025 02:39:01.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> de noche
+[24Aug2025 02:39:06.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> bueno
+[24Aug2025 02:39:07.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> puedes dormir?
+[24Aug2025 02:39:07.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> pito
+[24Aug2025 02:39:09.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> e
+[24Aug2025 02:39:15.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> si creo
+[24Aug2025 02:39:25.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 02:39:25.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 02:40:40.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> para que putas
+[24Aug2025 02:40:44.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> se ´pararon
+[24Aug2025 02:40:48.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> casi me matan por eso
+[24Aug2025 02:40:57.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> duerma ps
+[24Aug2025 02:41:00.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> y ami tambien
+[24Aug2025 02:41:14.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> yo ando relax en mi camita
+[24Aug2025 02:41:36.889] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cook'/299446, l='ServerLevel[world]', x=-253.30, y=63.00, z=-1746.04] died, message: 'Cook was slain by Door Knight'
+[24Aug2025 02:41:50.133] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cook'/299447, l='ServerLevel[world]', x=-239.48, y=63.14, z=-1765.69] died, message: 'Cook was slain by Zombie'
+[24Aug2025 02:41:54.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cook'/299378, l='ServerLevel[world]', x=-250.48, y=64.00, z=-1751.87] died, message: 'Cook was slain by Zombie'

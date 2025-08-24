@@ -11178,6 +11178,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-08-24 02:34:13 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/corn_bag": {
     "criteria": {
       "has_corn": "2025-08-24 01:46:18 +0000"
