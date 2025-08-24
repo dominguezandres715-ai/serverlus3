@@ -14291,6 +14291,12 @@
     },
     "done": true
   },
+  "arsdelight:recipes/misc/bastion_crate": {
+    "criteria": {
+      "has_bastion_pod": "2025-08-24 05:16:08 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/jungle": {
     "criteria": {
       "has_planks": "2025-08-24 04:13:57 +0000"
@@ -14306,6 +14312,12 @@
   "arcanelanterns:recipes/misc/cloud_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/misc/bombegrante_crate": {
+    "criteria": {
+      "has_bombegranate_pod": "2025-08-24 05:22:30 +0000"
     },
     "done": true
   },
@@ -14423,6 +14435,12 @@
     },
     "done": true
   },
+  "arsdelight:recipes/food/bombegrante_pie": {
+    "criteria": {
+      "has_bombegranate_pod": "2025-08-24 05:22:30 +0000"
+    },
+    "done": true
+  },
   "arcanelanterns:recipes/misc/withering_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
@@ -14498,6 +14516,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-08-24 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/food/bastion_pie": {
+    "criteria": {
+      "has_bastion_pod": "2025-08-24 05:16:08 +0000"
     },
     "done": true
   },
