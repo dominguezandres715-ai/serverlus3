@@ -99,3 +99,17 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [24Aug2025 01:51:38.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
 [24Aug2025 01:53:24.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
 [24Aug2025 01:53:24.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[24Aug2025 02:17:48.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NergalAbyss[/192.168.193.123:57791] logged in with entity id 266778 at (-3235.558470650061, 130.0, -4752.537997453386)
+[24Aug2025 02:17:48.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
+[24Aug2025 02:17:48.649] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
+[24Aug2025 02:17:54.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> nergal
+[24Aug2025 02:18:08.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> ke
+[24Aug2025 02:18:19.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> adivine que tengo
+[24Aug2025 02:18:22.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 02:18:29.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> un webo en un estuche
+[24Aug2025 02:18:33.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> esaito
+[24Aug2025 02:20:27.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Spectator Mode]
+[24Aug2025 02:21:01.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Sharon the Sneaky'/267074, l='ServerLevel[world]', x=-3217.70, y=129.00, z=-4737.30] died: Sharon the Sneaky was slain by NergalAbyss
+[24Aug2025 02:21:09.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 02:21:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> hagan sol
+[24Aug2025 02:21:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> pol favol
