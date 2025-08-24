@@ -232,3 +232,9 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [24Aug2025 04:50:52.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [24Aug2025 04:53:13.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [24Aug2025 04:54:51.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 04:55:31.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 04:55:39.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 05:00:05.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> DOLMIL
+[24Aug2025 05:03:54.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Asfalis the Baby'/440593, l='ServerLevel[world]', x=-2096.75, y=64.00, z=-6278.11] died: Asfalis the Baby was slain by CupcakeSpace
+[24Aug2025 05:04:13.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/438712, l='ServerLevel[world]', x=-2107.95, y=64.41, z=-6270.80] died: Undead Knight was slain by CupcakeSpace
+[24Aug2025 05:05:17.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
