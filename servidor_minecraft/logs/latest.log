@@ -159,3 +159,24 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [24Aug2025 02:52:10.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Kicked for spamming
 [24Aug2025 02:52:10.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
 [24Aug2025 02:52:10.459] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Aug2025 02:53:00.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:56839] logged in with entity id 314062 at (-2730.5, 71.0, 3253.5)
+[24Aug2025 02:53:00.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
+[24Aug2025 02:53:00.946] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
+[24Aug2025 02:54:19.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 02:57:32.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 03:00:21.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [The Basics]
+[24Aug2025 03:00:21.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Eterna, Quanta, Arcana]
+[24Aug2025 03:03:18.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duelman
+[24Aug2025 03:03:19.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duelman
+[24Aug2025 03:03:20.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duelman
+[24Aug2025 03:03:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duelman
+[24Aug2025 03:03:21.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duelman
+[24Aug2025 03:03:44.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duellllllman
+[24Aug2025 03:03:47.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> pol favol
+[24Aug2025 03:04:08.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> 2
+[24Aug2025 03:04:25.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -10.658941255645459,0.0,1.7389189671312124
+[24Aug2025 03:05:44.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2766, y=71, z=3252} BlockPos{x=-2766, y=70, z=3253}
+[24Aug2025 03:05:44.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2766, y=71, z=3252} BlockPos{x=-2766, y=70, z=3253}
+[24Aug2025 03:05:44.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2766, y=71, z=3252} BlockPos{x=-2766, y=70, z=3253}
+[24Aug2025 03:05:44.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2766, y=71, z=3252} BlockPos{x=-2766, y=70, z=3253}
+[24Aug2025 03:07:28.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!

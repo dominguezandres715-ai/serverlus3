@@ -11136,9 +11136,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+  "born_in_chaos_v1:naughty_child": {
     "criteria": {
-      "has_pumpkin": "2025-08-24 02:42:05 +0000"
+      "naughty_child_0": "2025-08-24 01:22:17 +0000"
     },
     "done": true
   },
@@ -11148,21 +11148,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-08-24 02:42:05 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_stairs_stonecutter": {
     "criteria": {
       "has_item": "2025-08-24 01:42:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-08-24 02:42:05 +0000"
     },
     "done": true
   },
@@ -11196,15 +11184,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
+  "farm_and_charm:recipes/corn_bag": {
     "criteria": {
-      "has_pumpkin": "2025-08-24 02:42:05 +0000"
+      "has_corn": "2025-08-24 01:46:18 +0000"
     },
     "done": true
   },
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-08-24 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-08-24 02:42:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-24 02:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-24 02:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-24 02:42:05 +0000"
     },
     "done": true
   },
@@ -11221,15 +11233,21 @@
     },
     "done": true
   },
-  "farm_and_charm:recipes/corn_bag": {
+  "apotheosis:enchanting/30ench": {
     "criteria": {
-      "has_corn": "2025-08-24 01:46:18 +0000"
+      "enchanted_item": "2025-08-24 03:00:21 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:naughty_child": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "naughty_child_0": "2025-08-24 01:22:17 +0000"
+      "has_cornflower": "2025-08-24 03:02:54 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-08-24 03:00:21 +0000"
     },
     "done": true
   },

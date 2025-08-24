@@ -14252,6 +14252,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_jungle_sign": "2025-08-24 02:59:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/piston": {
     "criteria": {
       "has_sticky_piston": "2025-08-24 02:25:38 +0000"
@@ -14309,6 +14315,12 @@
   "arcanelanterns:recipes/misc/withering_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-08-24 02:59:15 +0000"
     },
     "done": true
   },
