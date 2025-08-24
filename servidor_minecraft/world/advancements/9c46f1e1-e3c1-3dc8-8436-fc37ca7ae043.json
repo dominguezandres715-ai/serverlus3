@@ -10992,57 +10992,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_the_recipe": "2025-08-23 05:43:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-08-23 06:27:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-08-23 05:16:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-08-23 04:58:11 +0000"
-    },
-    "done": true
-  },
-  "creategoggles:recipes/nbtcrafting/chainmail_backtank": {
-    "criteria": {
-      "has_backtank": "2025-08-23 05:06:09 +0000"
-    },
-    "done": true
-  },
-  "candlelight:recipes/broccoli_crate": {
-    "criteria": {
-      "has_lettuce": "2025-08-23 06:39:20 +0000"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/food/cherry_blossom_roll": {
-    "criteria": {
-      "has_cherry_sapling": "2025-08-23 05:16:48 +0000"
-    },
-    "done": true
-  },
-  "candlelight:main/find_wild_crops": {
-    "criteria": {
-      "lettuce": "2025-08-23 06:39:20 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/cherry": {
-    "criteria": {
-      "has_planks": "2025-08-23 05:16:47 +0000"
     },
     "done": true
   },
@@ -11052,9 +11004,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/nether_salad": {
+  "creategoggles:recipes/nbtcrafting/chainmail_backtank": {
     "criteria": {
-      "has_bowl": "2025-08-23 05:46:45 +0000"
+      "has_backtank": "2025-08-23 05:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-08-23 05:16:47 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-08-23 05:16:47 +0000"
     },
     "done": true
   },
@@ -11064,21 +11028,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-08-23 06:06:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-08-23 05:16:47 +0000"
     },
     "done": true
   },
+  "rusticdelight:recipes/food/cherry_blossom_roll": {
+    "criteria": {
+      "has_cherry_sapling": "2025-08-23 05:16:48 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cherry_blossom_cookie": {
     "criteria": {
       "has_cherry_sapling": "2025-08-23 05:16:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_the_recipe": "2025-08-23 05:43:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-23 05:46:45 +0000"
     },
     "done": true
   },
@@ -11100,9 +11076,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-08-23 05:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-23 06:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-08-23 06:06:09 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-08-23 06:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-23 06:27:37 +0000"
     },
     "done": true
   },
@@ -11118,21 +11118,75 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/concrete": {
-    "criteria": {
-      "has_planks": "2025-08-23 06:06:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2025-08-23 05:46:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-08-23 06:27:37 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/broccoli_crate": {
+    "criteria": {
+      "has_lettuce": "2025-08-23 06:39:20 +0000"
+    },
+    "done": true
+  },
+  "candlelight:main/find_wild_crops": {
+    "criteria": {
+      "lettuce": "2025-08-23 06:39:20 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-08-24 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-24 01:42:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_paver_smelting": {
+    "criteria": {
+      "has_item": "2025-08-24 01:42:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab": {
+    "criteria": {
+      "has_item": "2025-08-24 01:42:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-08-24 01:42:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-24 01:42:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_crafting": {
+    "criteria": {
+      "has_item": "2025-08-24 01:42:48 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/corn_bag": {
+    "criteria": {
+      "has_corn": "2025-08-24 01:46:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:naughty_child": {
+    "criteria": {
+      "naughty_child_0": "2025-08-24 01:22:17 +0000"
     },
     "done": true
   },

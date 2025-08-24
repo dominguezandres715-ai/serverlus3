@@ -14234,6 +14234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-24 01:22:13 +0000"
+    },
+    "done": true
+  },
   "arcanelanterns:recipes/misc/brilliant_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
