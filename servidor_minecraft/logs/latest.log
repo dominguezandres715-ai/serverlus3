@@ -265,3 +265,4 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [24Aug2025 05:57:12.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Cherry Picker]
 [24Aug2025 06:11:27.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [24Aug2025 06:11:59.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Aug2025 06:23:38.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/519015, l='ServerLevel[world]', x=-3331.61, y=122.41, z=-4689.96] died: Undead Knight suffocated in a wall
