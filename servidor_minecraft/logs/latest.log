@@ -113,3 +113,7 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [24Aug2025 02:21:09.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [24Aug2025 02:21:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> hagan sol
 [24Aug2025 02:21:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> pol favol
+[24Aug2025 02:22:08.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> no quiero otro night stalker
+[24Aug2025 02:22:10.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ptm
+[24Aug2025 02:23:34.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/271688, l='ServerLevel[world]', x=-2427.16, y=102.41, z=4274.16] died: Undead Knight suffocated in a wall
+[24Aug2025 02:26:02.061] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/272842, l='ServerLevel[world]', x=-3154.96, y=135.41, z=-4767.22] died: Undead Knight suffocated in a wall

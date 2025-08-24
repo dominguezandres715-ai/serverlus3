@@ -14246,6 +14246,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-08-24 02:25:38 +0000"
+    },
+    "done": true
+  },
   "arcanelanterns:recipes/misc/warding_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
