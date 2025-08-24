@@ -14297,6 +14297,12 @@
     },
     "done": true
   },
+  "arsdelight:recipes/misc/mendosteen_crate": {
+    "criteria": {
+      "has_mendosteen_pod": "2025-08-24 05:43:54 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/jungle": {
     "criteria": {
       "has_planks": "2025-08-24 04:13:57 +0000"
@@ -14423,6 +14429,12 @@
     },
     "done": true
   },
+  "arsdelight:recipes/misc/frostaya_crate": {
+    "criteria": {
+      "has_frostaya_pod": "2025-08-24 05:43:58 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-08-24 04:13:57 +0000"
@@ -14432,6 +14444,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/food/frostaya_pie": {
+    "criteria": {
+      "has_frostaya_pod": "2025-08-24 05:43:58 +0000"
     },
     "done": true
   },
@@ -14465,6 +14483,12 @@
     },
     "done": true
   },
+  "arsdelight:recipes/food/mendosteen_pie": {
+    "criteria": {
+      "has_mendosteen_pod": "2025-08-24 05:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-08-24 00:55:20 +0000"
@@ -14480,6 +14504,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2025-08-24 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_wood": {
+    "criteria": {
+      "has_cherry_wood": "2025-08-24 05:49:48 +0000"
     },
     "done": true
   },

@@ -256,3 +256,9 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [24Aug2025 05:15:12.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
 [24Aug2025 05:27:16.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
 [24Aug2025 05:33:24.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 05:36:20.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 05:36:39.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> duelman
+[24Aug2025 05:36:53.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 05:37:17.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> pera
+[24Aug2025 05:37:23.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> manzana
+[24Aug2025 05:49:24.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
