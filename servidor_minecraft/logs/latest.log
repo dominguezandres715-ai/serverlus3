@@ -238,3 +238,19 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [24Aug2025 05:03:54.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Asfalis the Baby'/440593, l='ServerLevel[world]', x=-2096.75, y=64.00, z=-6278.11] died: Asfalis the Baby was slain by CupcakeSpace
 [24Aug2025 05:04:13.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/438712, l='ServerLevel[world]', x=-2107.95, y=64.41, z=-6270.80] died: Undead Knight was slain by CupcakeSpace
 [24Aug2025 05:05:17.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 05:05:42.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Big Boy]
+[24Aug2025 05:06:51.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 05:08:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> NATO
+[24Aug2025 05:08:34.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> khe
+[24Aug2025 05:08:49.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> TIENE SEMILLAS DE ARBOLES
+[24Aug2025 05:09:06.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> arboles cuales
+[24Aug2025 05:09:54.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 05:09:59.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> manglar, acacia
+[24Aug2025 05:10:04.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> no
+[24Aug2025 05:10:05.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> jungla
+[24Aug2025 05:10:17.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> y cualquiera que no sea del vanilla
+[24Aug2025 05:10:23.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> no
+[24Aug2025 05:10:47.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> 7n7
+[24Aug2025 05:13:14.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 05:13:49.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved wrongly!
+[24Aug2025 05:15:12.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
