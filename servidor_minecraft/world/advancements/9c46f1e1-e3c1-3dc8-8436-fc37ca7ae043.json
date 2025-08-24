@@ -11136,15 +11136,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-08-24 02:42:05 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/tomato_crate": {
     "criteria": {
       "has_tomato": "2025-08-24 01:35:50 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-24 02:42:05 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_stairs_stonecutter": {
     "criteria": {
       "has_item": "2025-08-24 01:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-24 02:42:05 +0000"
     },
     "done": true
   },
@@ -11178,9 +11196,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-24 02:42:05 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-08-24 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-24 02:42:05 +0000",
+      "has_the_recipe": "2025-08-24 02:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-24 02:45:06 +0000"
     },
     "done": true
   },
