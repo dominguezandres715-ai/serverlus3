@@ -14217,9 +14217,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-08-24 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/stove": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
     },
     "done": true
   },
@@ -14250,6 +14274,12 @@
   "arcanelanterns:recipes/misc/brilliant_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
     },
     "done": true
   },
@@ -14325,6 +14355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
   "arcanelanterns:recipes/misc/withering_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
@@ -14343,6 +14379,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2025-08-24 03:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2025-08-24 02:29:29 +0000"
@@ -14358,6 +14400,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-08-24 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-24 03:54:52 +0000"
     },
     "done": true
   },

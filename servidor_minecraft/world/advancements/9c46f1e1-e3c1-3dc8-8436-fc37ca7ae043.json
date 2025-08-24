@@ -11251,5 +11251,11 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/barley_ball": {
+    "criteria": {
+      "has_barley": "2025-08-24 03:59:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
