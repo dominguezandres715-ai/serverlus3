@@ -14216,6 +14216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-08-24 00:55:20 +0000"
+    },
+    "done": true
+  },
   "arcanelanterns:recipes/misc/wailing_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
@@ -14246,6 +14252,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-08-24 00:55:20 +0000"
+    },
+    "done": true
+  },
   "arcanelanterns:recipes/misc/life_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
@@ -14258,6 +14270,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-08-24 00:55:20 +0000"
+    },
+    "done": true
+  },
   "arcanelanterns:recipes/misc/containing_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
@@ -14267,6 +14285,12 @@
   "arcanelanterns:recipes/misc/withering_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 00:55:20 +0000"
     },
     "done": true
   },
