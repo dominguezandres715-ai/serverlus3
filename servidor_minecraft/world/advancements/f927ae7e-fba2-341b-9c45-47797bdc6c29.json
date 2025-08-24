@@ -14216,5 +14216,65 @@
     },
     "done": true
   },
+  "arcanelanterns:recipes/misc/wailing_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/cloud_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/brilliant_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/warding_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/boreal_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/life_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/love_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/containing_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/withering_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "arcanelanterns:recipes/misc/feral_lantern": {
+    "criteria": {
+      "has_lantern": "2025-08-24 00:24:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
