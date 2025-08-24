@@ -14258,6 +14258,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-08-24 01:08:46 +0000"
+    },
+    "done": true
+  },
   "arcanelanterns:recipes/misc/life_lantern": {
     "criteria": {
       "has_lantern": "2025-08-24 00:24:03 +0000"
